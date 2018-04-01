@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://zhoujinjian.cc/2018/02/01/Android-7-1-2-Android-N-Android-Graphics-%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90/</loc>
-    
-    <lastmod>2018-03-31T13:15:49.786Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhoujinjian.cc/2017/11/01/Android-7-1-2-Android-N-Activity-Window%E5%8A%A0%E8%BD%BD%E6%98%BE%E7%A4%BA%E6%B5%81%E7%A8%8B/</loc>
-    
-    <lastmod>2018-03-31T13:13:12.207Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhoujinjian.cc/2017/10/01/Android-7-1-2-Android-N-Activity%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B%E5%88%86%E6%9E%90/</loc>
-    
-    <lastmod>2018-03-31T13:12:29.722Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhoujinjian.cc/2018/01/01/Android-7-1-2-Android-N-Android-Binder%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90/</loc>
-    
-    <lastmod>2018-03-31T13:11:25.536Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://zhoujinjian.cc/2018/03/01/Android-7-1-2-Android-N-Android-WindowManagerService-%E7%AA%97%E5%8F%A3%E7%AE%A1%E7%90%86%E6%9C%8D%E5%8A%A1%E5%88%86%E6%9E%90-i-wonder/</loc>
     
-    <lastmod>2018-03-31T13:10:04.643Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhoujinjian.cc/2017/12/01/Android-7-1-2-Android-N-Android-%E8%BE%93%E5%85%A5%E5%AD%90%E7%B3%BB%E7%BB%9F-Input-System/</loc>
-    
-    <lastmod>2018-03-31T13:08:01.022Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhoujinjian.cc/2017/08/01/Android-7-1-2-Android-N-Android%E6%B6%88%E6%81%AF%E6%9C%BA%E5%88%B6%E2%80%93Handler%E3%80%81Looper%E3%80%81Message/</loc>
-    
-    <lastmod>2018-03-31T13:01:36.993Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhoujinjian.cc/2017/09/01/Android-7-1-2-Android-N-Android%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B/</loc>
-    
-    <lastmod>2018-03-31T13:00:48.989Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhoujinjian.cc/2015/07/01/hello-world/</loc>
-    
-    <lastmod>2018-03-31T13:00:20.670Z</lastmod>
+    <lastmod>2018-04-01T09:10:45.310Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://zhoujinjian.cc/2018/04/01/Linux%E5%86%85%E6%A0%B8%EF%BC%88Kernel-3-18%EF%BC%89-Input-%E5%AD%90%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90-i-wonder/</loc>
     
-    <lastmod>2018-03-31T12:59:57.755Z</lastmod>
+    <lastmod>2018-04-01T09:01:54.564Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zhoujinjian.cc/2018/02/01/Android-7-1-2-Android-N-Android-Graphics-%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90/</loc>
+    
+    <lastmod>2018-04-01T09:00:29.839Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zhoujinjian.cc/2018/01/01/Android-7-1-2-Android-N-Android-Binder%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90/</loc>
+    
+    <lastmod>2018-04-01T08:57:05.364Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zhoujinjian.cc/2017/12/01/Android-7-1-2-Android-N-Android-%E8%BE%93%E5%85%A5%E5%AD%90%E7%B3%BB%E7%BB%9F-Input-System/</loc>
+    
+    <lastmod>2018-04-01T08:53:44.681Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zhoujinjian.cc/2017/11/01/Android-7-1-2-Android-N-Activity-Window%E5%8A%A0%E8%BD%BD%E6%98%BE%E7%A4%BA%E6%B5%81%E7%A8%8B/</loc>
+    
+    <lastmod>2018-04-01T08:50:48.053Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zhoujinjian.cc/2017/10/01/Android-7-1-2-Android-N-Activity%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B%E5%88%86%E6%9E%90/</loc>
+    
+    <lastmod>2018-04-01T08:47:34.420Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zhoujinjian.cc/2017/09/01/Android-7-1-2-Android-N-Android%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B/</loc>
+    
+    <lastmod>2018-04-01T08:38:44.426Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zhoujinjian.cc/2017/08/01/Android-7-1-2-Android-N-Android%E6%B6%88%E6%81%AF%E6%9C%BA%E5%88%B6%E2%80%93Handler%E3%80%81Looper%E3%80%81Message/</loc>
+    
+    <lastmod>2018-04-01T08:14:30.028Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zhoujinjian.cc/2015/07/01/hello-world/</loc>
+    
+    <lastmod>2018-04-01T07:40:53.420Z</lastmod>
     
   </url>
   
