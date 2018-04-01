@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zhoujinjian.cc/search/index.html</loc>
+    
+    <lastmod>2018-04-01T09:56:05.356Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zhoujinjian.cc/tags/index.html</loc>
+    
+    <lastmod>2018-04-01T09:51:23.239Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://zhoujinjian.cc/2018/03/01/Android-7-1-2-Android-N-Android-WindowManagerService-%E7%AA%97%E5%8F%A3%E7%AE%A1%E7%90%86%E6%9C%8D%E5%8A%A1%E5%88%86%E6%9E%90-i-wonder/</loc>
     
     <lastmod>2018-04-01T09:10:45.310Z</lastmod>
@@ -79,23 +93,9 @@
   </url>
   
   <url>
-    <loc>http://zhoujinjian.cc/tags/index.html</loc>
-    
-    <lastmod>2018-03-31T10:03:21.666Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://zhoujinjian.cc/about/index.html</loc>
     
     <lastmod>2018-03-31T10:03:00.022Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhoujinjian.cc/search/index.html</loc>
-    
-    <lastmod>2018-03-31T09:56:02.948Z</lastmod>
     
   </url>
   
