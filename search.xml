@@ -3,6 +3,27 @@
   
     
     <entry>
+      <title>个人网站(分享一个有趣的的Loading gif) [i.wonder~]</title>
+      <link href="/2018/04/03/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99(%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E6%9C%89%E8%B6%A3%E7%9A%84%E7%9A%84Loading%20gif)/"/>
+      <url>/2018/04/03/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99(%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E6%9C%89%E8%B6%A3%E7%9A%84%E7%9A%84Loading%20gif)/</url>
+      <content type="html"><![CDATA[<h4 id="（一）、-Loading-gif："><a href="#（一）、-Loading-gif：" class="headerlink" title="（一）、 Loading gif："></a>（一）、 Loading gif：</h4><p>茶不思饭不想、不眠不夜折腾近两周，总算把个人网站搭建好了(๑乛◡乛๑)。</p><p><a href="https://postimg.org/image/neosjx00f/" target="_blank" rel="noopener"><img src="https://s19.postimg.org/e6wk37syb/Bouncing-ball.gif" alt="Bouncing-ball.gif | center"></a></p><h4 id="（二）、个人网站（zhoujinjian-cc）"><a href="#（二）、个人网站（zhoujinjian-cc）" class="headerlink" title="（二）、个人网站（zhoujinjian.cc）"></a>（二）、个人网站（zhoujinjian.cc）</h4><p>闷骚的主题，我想基本也不会有人来浏览我的个人网站，闷骚就闷骚点吧(๑乛◡乛๑)：</p><p><a href="https://postimg.org/image/ejny9j0z3/" target="_blank" rel="noopener"><img src="https://s19.postimg.org/sdcayktkj/zhoujinjian.cc.screenshoot.home.png" alt="zhoujinjian.cc.screenshoot.home.png  | center "></a><br><a href="https://postimg.org/image/kxd1cry5b/" target="_blank" rel="noopener"><img src="https://s19.postimg.org/y1ilpgq77/zhoujinjian.cc.screenshoot.tag.png.png" alt="zhoujinjian.cc.screenshoot.tag.png.png"></a><br><a href="https://postimg.org/image/t4514gyjj/" target="_blank" rel="noopener"><img src="https://s19.postimg.org/fn82llo83/zhoujinjian.cc.screenshoot.tag.404.png" alt="zhoujinjian.cc.screenshoot.tag.404.png"></a></p><h4 id="（三）、总结"><a href="#（三）、总结" class="headerlink" title="（三）、总结"></a>（三）、总结</h4><p>个人网站先暂时告一段落了，接下来还是继续老本行分析Android 源代码，之前分析虽已大致打通 App层 -&gt; Framework层 -&gt; Native层 -&gt; Kernel层，冒似有一定经验了然并卵，路漫漫其修远兮，生命不息，学无止境（其实嘛就是 -&gt; 人丑就要多读书๑乛◡乛๑）。好想读读书去看看外面的世界啊。</p><p>where you want to go-&gt;(Castelluccio di Norcia卡斯特鲁奇奥公园,意大利):</p><p><a href="https://postimg.org/image/3p6i7ipjz/" target="_blank" rel="noopener"><img src="https://s19.postimg.org/7lju3iajn/i.wanna.see.the.word.jpg" alt="i.wanna.see.the.word.jpg"></a></p><p>Or-&gt;(Lofoten, Reinebringen(雷訥),挪威):</p><p><a href="https://postimg.org/image/3p6i7ix9r/" target="_blank" rel="noopener"><img src="https://s19.postimg.org/d9q4uemlv/Reinebringen_-_Norway-nofingerprint.jpg" alt="Reinebringen_-_Norway-nofingerprint.jpg"></a></p><p>PS：哇哦，好美，算了我就想想<strong>（ಡωಡ）</strong>。</p><h4 id="（四）、参考资料-特别感谢各位前辈的辛苦奉献-："><a href="#（四）、参考资料-特别感谢各位前辈的辛苦奉献-：" class="headerlink" title="（四）、参考资料(特别感谢各位前辈的辛苦奉献)："></a>（四）、参考资料(特别感谢各位前辈的辛苦奉献)：</h4><p><a href="https://bing.ioliu.cn/v1?p=1&amp;d=0&amp;w=1280&amp;h=768" target="_blank" rel="noopener">Bing 壁纸 API</a><br><a href="https://api.lylares.com/bing/image/?w=1920&amp;h=1080" target="_blank" rel="noopener">Api-bing-wallpaper</a><br><a href="https://github.com/Mrminfive/hexo-theme-skapp" target="_blank" rel="noopener">Mrminfive - Hexo-theme-skapp</a><br><a href="https://github.com/Molunerfinn/hexo-theme-melody" target="_blank" rel="noopener">Molunerfinn - Hexo-theme-melody</a><br><a href="https://github.com/stkevintan/canoe-blog" target="_blank" rel="noopener">Stkevintan - canoe-blog</a><br><a href="https://www.designernews.co/404" target="_blank" rel="noopener">(404) The page you were looking for doesn’t exist</a></p>]]></content>
+      
+      <categories>
+          
+          <category> Live </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo Live </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>Linux内核（Kernel-3.18） - Linux Input 子系统分析 [i.wonder~]</title>
       <link href="/2018/04/01/Linux%E5%86%85%E6%A0%B8%EF%BC%88Kernel-3-18%EF%BC%89-Input-%E5%AD%90%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90-i-wonder/"/>
       <url>/2018/04/01/Linux%E5%86%85%E6%A0%B8%EF%BC%88Kernel-3-18%EF%BC%89-Input-%E5%AD%90%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90-i-wonder/</url>
