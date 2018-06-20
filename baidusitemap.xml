@@ -4,6 +4,86 @@
 
     
   <url>
+    <loc>http://zhoujinjian.cc/2018/08/16/Android%20Display%20System%EF%BC%884%EF%BC%89%EF%BC%9AAndroid%20Display%20System%20%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B9%8BGralloc%20&&%20HWComposer%E6%A8%A1%E5%9D%97%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2018-06-20T15:16:27.801Z</lastmod>
+    <data>
+        <display>
+        <title>Android Display System（4）：Android Display System 系统分析之Gralloc && HWComposer模块分析</title>
+        <pubTime>2018-08-15T16:00:00.000Z</pubTime>
+        
+        <tag>Android</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android" url="http://zhoujinjian.cc/categories/Android/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://zhoujinjian.cc/2018/08/30/Android%20Display%20System%EF%BC%885%EF%BC%89%EF%BC%9AAndroid%20Display%20System%20%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B9%8BDisplay%20Driver%20Architecture/</loc>
+    <lastmod>2018-06-20T15:15:33.034Z</lastmod>
+    <data>
+        <display>
+        <title>Android Display System（5）：Android Display System 系统分析之Display Driver Architecture</title>
+        <pubTime>2018-08-29T16:00:00.000Z</pubTime>
+        
+        <tag>Android</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android" url="http://zhoujinjian.cc/categories/Android/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://zhoujinjian.cc/2018/08/01/Android%20Display%20System%EF%BC%883%EF%BC%89%EF%BC%9AAndroid%20Display%20System%20%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B9%8BHardwareRenderer.draw()%E7%BB%98%E5%88%B6%E6%B5%81%E7%A8%8B%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2018-06-20T15:11:18.995Z</lastmod>
+    <data>
+        <display>
+        <title>Android Display System（3）：Android Display System 系统分析 之  HardwareRenderer.draw()绘制流程分析</title>
+        <pubTime>2018-07-31T16:00:00.000Z</pubTime>
+        
+        <tag>Android</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android" url="http://zhoujinjian.cc/categories/Android/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://zhoujinjian.cc/2018/07/20/Android%20Display%20System%EF%BC%882%EF%BC%89%EF%BC%9AAndroid%20Display%20System%20%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B9%8BAndroid%20EGL%20&&%20OpenGL/</loc>
+    <lastmod>2018-06-20T15:11:14.394Z</lastmod>
+    <data>
+        <display>
+        <title>Android Display System（2）：Android Display System 系统分析之Android EGL && OpenGL</title>
+        <pubTime>2018-07-19T16:00:00.000Z</pubTime>
+        
+        <tag>Android</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android" url="http://zhoujinjian.cc/categories/Android/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://zhoujinjian.cc/2018/06/30/Android%20Camera%20System%EF%BC%881%EF%BC%89%EF%BC%9ACamera%20System(Camera%20%E7%B3%BB%E7%BB%9F)%E6%A1%86%E6%9E%B6%E3%80%81Open()%E8%BF%87%E7%A8%8B%E5%88%86%E6%9E%90/</loc>
     <lastmod>2018-05-25T12:12:49.774Z</lastmod>
     <data>
